@@ -32,7 +32,7 @@
 </svg>
 </a>
 
-<a href="https://www.instagram.com/avmgmarket/" class="insta">
+<a target="_blank" href="https://www.instagram.com/avmgmarket/" class="insta">
     <div class="insta-inner">
         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 180">
             <path d="M122.4 0H46.66A46.7 46.7 0 0 0 0 46.66v75.75a46.7 46.7 0 0 0 46.65 46.65h75.76a46.7 46.7 0 0 0 46.65-46.65V46.66A46.7 46.7 0 0 0 122.41 0zm31.66 122.4a31.7 31.7 0 0 1-31.65 31.66H46.65A31.69 31.69 0 0 1 15 122.41V46.66A31.7 31.7 0 0 1 46.65 15h75.76a31.7 31.7 0 0 1 31.65 31.66v75.75z"/>
