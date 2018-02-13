@@ -8,7 +8,7 @@
                 <span>Стандарт</span>
             </div>
             <div class="table-middle">
-                <span>21,3</span>
+                <span>21,6</span>
                 <span>2</span>
                 <span>S235JRH</span>
                 <span>EN 10219-1, EN 10219-2</span>

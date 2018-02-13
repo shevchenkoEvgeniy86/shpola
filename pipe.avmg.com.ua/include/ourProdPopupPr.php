@@ -8,7 +8,7 @@
                 <span>Стандарт</span>
             </div>
             <div class="table-middle">
-                <span>40х20</span>
+                <span>20х10</span>
                 <span>2, 2.5, 3</span>
                 <span>S 235JRH</span>
                 <span>EN 10219-1, EN 10219-2</span>
