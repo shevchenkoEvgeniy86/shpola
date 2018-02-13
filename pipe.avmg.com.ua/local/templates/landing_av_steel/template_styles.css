@@ -2420,7 +2420,7 @@ li[data-logo-main-menu] a {
     height: 340px;
     width: 550px;
     margin: auto;
-    margin-top: 20px;
+    margin-top: 55px;
 }
 
 .main-wrap #map-wrap .map-text {
@@ -2455,6 +2455,10 @@ li[data-logo-main-menu] a {
 
 .gm-style .gm-style-iw {
     font-size: 15px
+}
+
+.center-office-inner + .center-office-title {
+    margin-top: 10px;
 }
 
 @media (max-width:992px) {
@@ -2755,19 +2759,26 @@ li[data-logo-main-menu] a {
 .contact-data {
     display: flex;
     justify-content: center;
-    margin-top: 50px;
+    margin-top: 20px;
 }
 
 .address-data-footer {
     font-size: 21px;
     color: #414141;
-    margin-top: 50px;
+    margin-top: 0;
 }
 
 .address-data-footer address,
-.box-in-move a {
+.box-in-move a,
+.center-office-inner a {
     color: #414141;
     display: inline-block;
+    font-size: 16px;
+    vertical-align: top;
+}
+
+.address-data-footer address {
+    margin-bottom: 10px;
 }
 
 .box-in-move a:hover {
@@ -2775,7 +2786,7 @@ li[data-logo-main-menu] a {
 }
 
 .address-data-footer .phone {
-    margin-bottom: 20px;
+    margin-bottom: 10px;
 }
 
 .box-in-move,
@@ -2784,9 +2795,35 @@ li[data-logo-main-menu] a {
 }
 
 .address-data-footer .fa {
-    font-size: 27px;
+    font-size: 20px;
     min-width: 22px;
 }
+
+.center-office-title {
+    display: block;
+    font-size: 16px;
+    margin-left: 10px;
+}
+
+.data-box-title {
+    display: block;
+    margin-bottom: 10px;
+    font-weight: 700;
+}
+
+.center-office-inner {
+    margin-top: 10px;
+    margin-left: 20px;
+}
+
+.other-data-inner {
+    margin-left: 20px;
+}
+
+.address-data-other .data-box-title {
+    margin-top: 20px;
+}
+
 
 /* FOOTER LOGO */
 
