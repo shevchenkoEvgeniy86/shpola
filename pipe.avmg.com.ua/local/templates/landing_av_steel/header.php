@@ -574,7 +574,7 @@ CJSCore::RegisterExt("fontawesome", ["css" => "/bitrix/css/av/font-awesome/css/s
             </div>
             <!--/Нужно-->
 
-            <div class="container">
+            <div class="container top-main-logo">
                 <div class="col-md-12" data-main-logo="">
                     <div data-logo="" class="hidden-sm hidden-xs text-center">
                         <span class="logo-inner"></span>
